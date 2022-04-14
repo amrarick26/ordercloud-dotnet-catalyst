@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OrderCloud.Catalyst\OrderCloud.Integrations.csproj" />
+    <ProjectReference Include="..\OrderCloud.Integrations.Models\OrderCloud.Integrations.Models.csproj" />
   </ItemGroup>
 
 </Project>
